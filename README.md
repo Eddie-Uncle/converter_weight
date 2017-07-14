@@ -5,6 +5,6 @@ Basically coverts pounds into kilograms and vice versa. Feel free to share and m
 Developed in python 2.7
 
 usage :
-pyton file.py
+# python file.py
 
 And there you go.
